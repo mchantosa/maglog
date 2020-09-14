@@ -1,0 +1,2 @@
+# maglog
+Magic catalog 
